@@ -1,5 +1,5 @@
 # eBookToPdf
-E-Book PDF 추출 프로그램<br /><br />
+E-Book PDF 추출 ~~프로그램~~ 파이썬 스크립트
 
 회전 기능을 더했습니다.
 
